@@ -381,6 +381,28 @@
     }
 }
 
+@media screen and (max-width: 458px) {
+    .jumbotron h1 {
+        font-size: 3rem;
+    }
+
+    .about {
+        height: 1025px;
+    }
+
+    .myskills {
+        height: 2200px;
+    }
+
+    .mywork {
+        height: 425px;
+    }
+
+    .footer .row {
+        left: 75px;
+    }
+}
+
 @media screen and (max-width: 414px) {
     .jumbotron {
         height: 18rem;
