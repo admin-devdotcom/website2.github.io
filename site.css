@@ -352,7 +352,7 @@ html, body {
 
 @media screen and (max-width: 540px) {
     .jumbotron h1 {
-        font-size: 4rem;
+        font-size: 3rem;
     }
 
     .about {
@@ -382,16 +382,12 @@ html, body {
 }
 
 @media screen and (max-width: 428px) {
-    .jumbotron h1 {
-        font-size: 3rem;
-    }
-
     .about {
-        height: 1025px;
+        height: 1150px;
     }
 
     .myskills {
-        height: 2200px;
+        height: 2300px;
     }
 
     .mywork {
@@ -399,7 +395,7 @@ html, body {
     }
 
     .footer .row {
-        left: 75px;
+        left: 50px;
     }
 }
 
@@ -416,17 +412,9 @@ html, body {
         height: 1175px;
     }
 
-    .myskills {
-        height: 2300px;
-    }
-
     .mywork {
         height: 450px;
-    }
-
-    .footer .row {
-        left: 50px;
-    }
+    }    
 }
 
 @media screen and (max-width: 375px) {
