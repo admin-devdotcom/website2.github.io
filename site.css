@@ -383,11 +383,11 @@ html, body {
 
 @media screen and (max-width: 428px) {
     .about {
-        height: 1150px;
+        height: 1200px;
     }
 
     .myskills {
-        height: 2300px;
+        height: 2375px;
     }
 
     .mywork {
@@ -408,10 +408,6 @@ html, body {
         font-size: 3rem;
     }    
 
-    .about {
-        height: 1175px;
-    }
-
     .mywork {
         height: 450px;
     }    
@@ -428,10 +424,6 @@ html, body {
 
     .about {
         height: 1275px;
-    }
-
-    .myskills {
-        height: 2375px;
     }
 
     .footer h1 {
