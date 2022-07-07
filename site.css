@@ -383,11 +383,11 @@ html, body {
 
 @media screen and (max-width: 428px) {
     .about {
-        height: 1200px;
+        height: 1175px;
     }
 
     .myskills {
-        height: 2375px;
+        height: 2350px;
     }
 
     .mywork {
