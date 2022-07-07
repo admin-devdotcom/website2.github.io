@@ -383,11 +383,11 @@ html, body {
 
 @media screen and (max-width: 428px) {
     .about {
-        height: 1175px;
+        height: 1150px;
     }
 
     .myskills {
-        height: 2350px;
+        height: 2325px;
     }
 
     .mywork {
@@ -407,6 +407,14 @@ html, body {
     .jumbotron h1 {
         font-size: 3rem;
     }    
+
+    .about {
+        height: 1200px;
+    }
+
+    .myskills {
+        height: 2300px;
+    }
 
     .mywork {
         height: 450px;
