@@ -246,6 +246,10 @@ html, body {
         text-align: center;
     }
 
+.example-site {
+    height: 400px;
+}
+
 /* Contact */
 .contact {
     height: 600px;    
@@ -329,6 +333,10 @@ html, body {
 @media screen and (max-width: 1024px) {
     .myskills {
         height: 1125px;
+    }    
+
+    .example-site {
+        height: 300px;
     }
 
     .footer .row {
@@ -343,6 +351,10 @@ html, body {
 
     .myskills {
         height: 1350px;
+    }
+
+    .example-site {
+        height: 200px;
     }
 
     .footer .row {
